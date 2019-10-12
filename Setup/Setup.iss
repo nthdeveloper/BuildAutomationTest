@@ -34,6 +34,7 @@ EnableDirDoesntExistWarning=False
 AppendDefaultDirName=False
 DefaultGroupName={#MyAppName}
 DisableProgramGroupPage=yes
+OutputDir=..\Output
 OutputBaseFilename=Build Automation Test {#MyAppVersion}
 Compression=lzma
 SolidCompression=yes
